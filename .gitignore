@@ -30,3 +30,6 @@
 .spyderproject
 .spyderworkspace
 
+# dev tools
+.idea/
+
